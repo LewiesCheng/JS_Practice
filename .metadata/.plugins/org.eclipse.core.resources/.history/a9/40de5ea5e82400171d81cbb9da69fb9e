@@ -1,0 +1,71 @@
+@CHARSET "UTF-8";
+
+*
+{
+	padding: 0px;
+	margin: 0px;
+	font-family: "weiruan"
+}
+ul {
+	list-style-type: none;
+}
+
+#lunbo {
+	width: 910px;
+	height: 340px;
+	position: absolute;
+	left: 50%;
+	margin-left: -455px;
+	top: 50%;
+	margin-top: -170px;
+}
+
+.pic {
+	position: absolute;
+}
+
+#tags {
+	position: absolute;
+	bottom: 10px;
+	width: 120px;
+	height: 18px;
+	left: 50%;
+	margin-left: -50px;
+}
+
+#tags li{
+	width: 14px;
+	height: 14px;
+	background-color: #ccc;
+	float: left;
+	margin-right: 10px;
+	border: solid 2px #fff;
+	border-radius: 100%;
+	cursor: pointer;
+}
+
+li .bg {
+	background-color: #f00;
+}
+
+.btn {
+	width: 30px;
+	height: 50px;
+	background: rgba(0,0,0,0.5);
+	position: absolute;
+	color: #fff;
+	font-size: 30px;
+	text-align: center;
+	line-height: 40px;
+	top: 50%;
+	margin-top: -25px;
+	cursor: pointer;
+}
+
+.left {
+	left: 0px;
+}
+
+.right {
+	right: 0px;
+}

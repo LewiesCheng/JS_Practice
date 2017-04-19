@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link href="../css/lunbotu.css" rel="stylesheet" />
+<script src="../js/jquery-3.2.1.min.js"></script>
+<script src="../js/lunbotu.js"></script>
+</head>
+<body>
+	<div id = "lunbo">
+		<div id = "pics">
+			<div class = "pic"><img alt="啊黄" src="img/1.jpg"></div>
+		</div>
+	</div>
+</body>
+</html>
